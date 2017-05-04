@@ -14,3 +14,5 @@ You can even do:
 
 Code blocks
 ```
+
+![alt text](images/Action_Palette_LargeMotor_On.png "Logo Title Text 1") ![alt text](images/Advanced_Palette_UnregulatedMotor_1.png "Logo Title Text 1")
