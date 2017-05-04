@@ -15,4 +15,10 @@ You can even do:
 Code blocks
 ```
 
+Test images:
+
 ![alt text](images/Action_Palette_LargeMotor_On.png "Logo Title Text 1") ![alt text](images/Advanced_Palette_UnregulatedMotor_1.png "Logo Title Text 1")
+
+Why are not this pictures in the PDF?
+
+![](images/Action_Palette_LargeMotor_On.png ) ![](images/Advanced_Palette_UnregulatedMotor_1.png )
